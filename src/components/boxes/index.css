@@ -1,0 +1,24 @@
+.small{
+    color: white;
+    height:90px;
+    width: 80px;
+    background-color: yellow;
+    font-size: 20px;
+}
+.medium{
+    color: white;
+    height:190px;
+    width: 80px;
+    background-color: pink;
+    font-size: 20px;
+    margin-left: 190px;
+}
+.large{
+    color: white;
+    height:220px;
+    width: 80px;
+    background-color: red;
+    font-size: 20px;
+    margin-left: 330px;
+
+}
