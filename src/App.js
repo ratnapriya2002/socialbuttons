@@ -1,5 +1,5 @@
 import React from "react"; 
-import Boxes from "./components/boxes";
-const App = () =><Boxes/> 
+import CounterApplication from "./components/counterapplication";
+const App = () =><CounterApplication/> 
 export default App
    
