@@ -1,5 +1,5 @@
 import React from "react"; 
-import CounterApplication from "./components/counterapplication";
-const App = () =><CounterApplication/> 
+import LightandDark from "./components/lightanddarkmode";
+const App = () =><LightandDark/> 
 export default App
    
