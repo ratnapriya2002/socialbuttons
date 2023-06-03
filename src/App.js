@@ -1,4 +1,4 @@
 import React from "react";
-import EvenOddApp from "./components/evenoddapp";
-const App = () =><EvenOddApp/> 
+import LoginApp from "./components/loginapp";
+const App = () =><LoginApp/> 
 export default App
