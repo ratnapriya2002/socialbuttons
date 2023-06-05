@@ -22,3 +22,9 @@
 .button:hover {
   background-color: #45a049;
 }
+.randomenumbercontainer{
+  background-color: white;
+  min-height: 170px;
+  min-width: 120px;
+  border-radius: 10px;
+}

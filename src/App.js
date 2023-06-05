@@ -1,4 +1,4 @@
 import React from "react";
-import LoginApp from "./components/loginapp";
-const App = () =><LoginApp/> 
+import RandomeNumberGanarator from "./components/randomenumber";
+const App = () =><RandomeNumberGanarator/> 
 export default App
