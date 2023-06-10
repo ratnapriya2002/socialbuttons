@@ -1,4 +1,4 @@
 import React from "react";
-import RandomeNumberGanarator from "./components/randomenumber";
-const App = () =><RandomeNumberGanarator/> 
+import GoogleSuggitions from "./components/googlesuggitions";
+const App = () =><GoogleSuggitions /> 
 export default App
