@@ -1,4 +1,9 @@
 import React from "react";
-import GoogleSuggitions from "./components/googlesuggitions";
-const App = () =><GoogleSuggitions /> 
+import EmojiesApp from "./components/emojiesapp";
+// import RenderThankyouMessage from "./components/emojiesapp/thankyou";
+const App = () =>
+<>
+<EmojiesApp/>
+{/* <RenderThankyouMessage/> */}
+</>
 export default App

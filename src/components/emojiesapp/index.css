@@ -1,0 +1,59 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.bg-container {
+  background-image: linear-gradient(to left, #1d976c, #93f9b9);
+  background-size: cover;
+  min-height: 100vh;
+ 
+}
+.button{
+  background-color: #382f5a;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  width: 10%;
+  border-radius: 4px;
+  border: 1px solid #c4c4c4;
+  
+  margin-left: 100px;
+  
+  cursor: pointer;
+  outline: none;
+}
+
+@media screen and (min-width: 768px) {
+  .denomination-button {
+    font-size: 24px;
+  }
+}
+.heading{
+  font-size: 25px;
+  font-family: "roboto";
+  justify-content: center;
+  margin-left: 60px;
+  color: black;
+}
+.top-heading{
+  font-size: 25px;
+  font-family: "roboto";
+  justify-content: center;
+  margin-left: 60px;
+  color: black;
+}
+.small-container{
+  background-color: white;
+  min-height: 190px;
+  min-width: 120px;
+  margin: 20px;
+}
+.emojis-container{
+  display: flex;
+  justify-content: center;
+  min-height: 10px;
+  min-width: none;
+  margin-right:100px;
+
+}
